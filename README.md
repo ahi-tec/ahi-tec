@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,dotnet,java,php,mysql,postgres,azure" />
+<img src="https://skillicons.dev/icons?i=vscode,ai,aiscript,bots,aws,cs,css,html,js,python,fastapi,kotlin,nodejs,dotnet,java,php,laravel,mysql,postgres,azure,github,git" />
 
 </p>
 
