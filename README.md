@@ -29,19 +29,19 @@
 
 </p>
 
-- ⚙️ Backend: **Python (FastAPI)**, **.NET**, **Java**, **PHP**  
-- 🗄️ Database: **SQL Server, PostgreSQL, MySQL**  
-- ☁️ Platforms: **Power Platform, Azure**  
-- 🔄 Automation: **RPA, Low-code / No-code**
+⚙️ Backend: **Python (FastAPI)**, **.NET**, **Java**, **PHP**  
+🗄️ Database: **SQL Server, PostgreSQL, MySQL**  
+☁️ Platforms: **Power Platform, Azure**  
+🔄 Automation: **RPA, Low-code / No-code**
 
 ---
 
 ## 🤖 Interests
 
-- 🧠 Artificial Intelligence & Machine Learning  
-- ⚡ Workflow Automation & Process Optimization  
-- 🛠 Prompt Engineering & Generative AI  
-- 📊 Low-code / No-code Development  
+🧠 Artificial Intelligence & Machine Learning  
+⚡ Workflow Automation & Process Optimization  
+🛠 Prompt Engineering & Generative AI  
+📊 Low-code / No-code Development  
 
 ---
 
