@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
 ✨ I specialize in building **AI-powered systems**, **workflow automation**, and **enterprise applications**.  
 🔥 Passionate about **AI**, **Prompt Engineering**, and turning ideas into **real-world scalable products**.
